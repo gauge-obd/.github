@@ -1,4 +1,4 @@
-<img src="https://github.com/gauge-obd/gauge-graphics/blob/main/logo_assets/black_white.png" alt="Gauge Logo" width="204"/>
+<img src="https://github.com/gauge-obd/gauge-graphics/blob/main/logo_assets/black_white.png" alt="Gauge Logo" width="204"/> 
 
 # Gauge OBD
 ---
@@ -7,6 +7,12 @@
 >
 >Powered by AI 🖤
 
+> [!WARNING]  
+> **Gauge is not yet in full release.**  
+> Public **beta testing will begin on October 1st**.  
+> Features, APIs, and documentation may change significantly before then.  
+
+---
 
 ### *Gauge is an AI-powered automotive diagnostics and analysis platform.*
 ---
