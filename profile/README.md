@@ -25,6 +25,17 @@ In doing so, Gauge solves three key problems:
 
 ---
 
+[**Read the introductory ▸**](https://medium.com/@gaugeobd/introducing-gauge-ai-powered-automotive-diagnostics-made-simple-6257b7bca05f)
+
+[**View the full documentation ▸**](https://github.com/gauge-obd-docs)
+
+[**Try it out on CodeSandbox ▸**](https://codesandbox.io/p/sandbox/BLANK)
+
+[**Read frequently asked questions (FAQ) on the wiki ▸**](https://github.com/gauge-obd/frontend/wiki/Frequently-Asked-Questions)
+
+
+---
+
 > [!CAUTION]  
 > Gauge uses AI to interpret vehicle data, which means **results may occasionally be incomplete or inaccurate**.
 >
