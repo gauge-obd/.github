@@ -1,5 +1,6 @@
-# <img src="https://github.com/gauge-obd/gauge-graphics/blob/main/logo_assets/black_white.png" alt="Gauge Logo" width="40"/> Gauge OBD
+<img src="https://github.com/gauge-obd/gauge-graphics/blob/main/logo_assets/black_white.png" alt="Gauge Logo" width="204"/>
 
+# Gauge OBD
 ---
 
 >**See exactly what your car is doing in real time!**
