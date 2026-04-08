@@ -9,7 +9,7 @@
 
 > [!WARNING]  
 > **Gauge is not yet in full release.**  
-> Public **beta testing will begin on October 1st**.  
+> Public **beta testing will begin Apr 20th**.  
 > Features, APIs, and documentation may change significantly before then.  
 
 ---
